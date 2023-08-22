@@ -517,6 +517,16 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8954954101812657912, guid: 5355e166425a15646a0edcb35816032d,
+        type: 3}
+      propertyPath: fallbackFileName
+      value: modelos.xml
+      objectReference: {fileID: 0}
+    - target: {fileID: 8954954101812657912, guid: 5355e166425a15646a0edcb35816032d,
+        type: 3}
+      propertyPath: overrideFileName
+      value: modelsTest.xml
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5355e166425a15646a0edcb35816032d, type: 3}
 --- !u!850595691 &480533134

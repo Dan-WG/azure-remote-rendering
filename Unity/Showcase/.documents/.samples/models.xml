@@ -18,7 +18,13 @@
 
 				<Model>
 					<Name>SHL</Name>
-					<Url>https://renderingtest1.blob.core.windows.net/arroutput/SHL.arrAsset?sp=r&st=2023-08-22T20:34:06Z&se=2023-08-22T23:14:06Z&spr=https&sv=2022-11-02&sr=b&sig=uJei3LTwBxabbmW%2Bn9T1Rv2%2B76pafDlbFl5tRw3kBBA%3D</Url>
+					<Url>https://renderingtest1.blob.core.windows.net/arroutput/SHL.arrAsset</Url>
+				</Model>
+
+
+				<Model>
+					<Name>123</Name>
+					<Url>https://renderingtest1.blob.core.windows.net/arroutput/SHL.arrAsset</Url>
 				</Model>
             </Items>
         </Container>

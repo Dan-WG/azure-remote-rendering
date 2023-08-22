@@ -667,10 +667,10 @@ PlayerSettings:
       PointOfService: False
       RecordedCallsFolder: False
       Contacts: False
+      Proximity: True
       InternetClient: True
       CodeGeneration: False
       BackgroundMediaPlayback: False
-      Proximity: True
   metroTargetDeviceFamilies:
     Desktop: True
     Holographic: True

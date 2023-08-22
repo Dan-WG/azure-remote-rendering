@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7c130a0ea4b75bb428622bafe3a7e518, type: 3}
-  m_Name: SHL
+  m_Name: TestModel 1
   m_EditorClassIdentifier: 
   Model:
-    Name: SHL
+    Name: 123
     Enabled: 1
     Transform:
       Center: 0
@@ -22,4 +22,4 @@ MonoBehaviour:
       Scale: {x: 1, y: 1, z: 1}
       MinSize: {x: 0, y: 0, z: 0}
       MaxSize: {x: 0, y: 0, z: 0}
-    Url: https://renderingtest1.blob.core.windows.net/arroutput/SHL.arrAsset?sp=r&st=2023-08-22T21:39:29Z&se=2023-08-23T05:39:29Z&spr=https&sv=2022-11-02&sr=b&sig=s%2FMGy7mYuQBT844sXW91lhhCiRzbQPG1OG5gxiSkYnA%3D
+    Url: builtin://Engine

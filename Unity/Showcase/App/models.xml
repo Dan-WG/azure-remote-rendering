@@ -15,11 +15,6 @@
                     <Name>Test Model</Name>
                     <Url>builtin://Engine</Url>
                 </Model>
-
-				<Model>
-					<Name>SHL</Name>
-					<Url>builtin://Engine</Url>
-				</Model>
             </Items>
         </Container>
         <Container>

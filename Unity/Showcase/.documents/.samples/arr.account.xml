@@ -7,9 +7,9 @@
   <Account>
     <RemoteRenderingDomains>
       <RemoteRenderingDomain>
-        <Label>My Remote Rendering Region</Label>
-        <Value>westus2</Value>
-        <Domain>my-remote-rendering-region.mixedreality.azure.com</Domain>
+        <Label>RemoteRendering1</Label>
+        <Value>eastus</Value>
+        <Domain>remoterendering1.mixedreality.azure.com</Domain>
       </RemoteRenderingDomain>
     </RemoteRenderingDomains>
     <AccountDomain>eastus.mixedreality.azure.com</AccountDomain>
