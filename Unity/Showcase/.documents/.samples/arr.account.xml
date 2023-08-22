@@ -12,9 +12,9 @@
         <Domain>my-remote-rendering-region.mixedreality.azure.com</Domain>
       </RemoteRenderingDomain>
     </RemoteRenderingDomains>
-    <AccountDomain>my-account-region.mixedreality.azure.com</AccountDomain>
-    <AccountId>00000000-0000-0000-0000-000000000000</AccountId>
-    <AccountKey>MyArrAccountKey=</AccountKey>
+    <AccountDomain>eastus.mixedreality.azure.com</AccountDomain>
+    <AccountId>389909a2-d390-4ecd-bbde-a311ebbf0270</AccountId>
+    <AccountKey>aGkObGyZMbnoyka0ZdnGegNcL+77V0Tvv7SRm1Mcw+U=</AccountKey>
   </Account>
 
   <!-- Azure Remote Rendering session details -->
@@ -30,9 +30,9 @@
 
   <!-- Azure storage details. -->
   <Storage>
-    <StorageAccountName>MyStorageAccountName</StorageAccountName>
-    <StorageAccountKey>MyStorageAccountKey==</StorageAccountKey>
-    <StorageModelContainer>my-blob-container-with-arr-assets</StorageModelContainer>
+    <StorageAccountName>renderingtest1 </StorageAccountName>
+    <StorageAccountKey>f1jCcxgb0JHNBEcIgcjnG4esDjLg4nggMRS9VLrkT8raqE84sNFuvgPNggsBesL9jzNk0XYN2ba5+AStPdQr0g==</StorageAccountKey>
+    <StorageModelContainer>arroutput</StorageModelContainer>
   </Storage>
 
   <!--  Sharing or collaboration service details -->

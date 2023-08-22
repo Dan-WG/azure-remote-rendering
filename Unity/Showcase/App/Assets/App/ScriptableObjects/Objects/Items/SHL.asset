@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c130a0ea4b75bb428622bafe3a7e518, type: 3}
+  m_Name: SHL
+  m_EditorClassIdentifier: 
+  Model:
+    Name: SHL
+    Enabled: 1
+    Transform:
+      Center: 0
+      Position: {x: 0, y: 0, z: 0}
+      Rotation: {x: 0, y: 0, z: 0}
+      Scale: {x: 1, y: 1, z: 1}
+      MinSize: {x: 0, y: 0, z: 0}
+      MaxSize: {x: 0, y: 0, z: 0}
+    Url: https://renderingtest1.blob.core.windows.net/arroutput/SHL.arrAsset?sp=r&st=2023-08-22T19:31:24Z&se=2023-08-22T23:31:24Z&spr=https&sv=2022-11-02&sr=b&sig=f7EOr7I8D%2F2hOTfmSJ5%2BtO8Sjpw5yHAiS39Yd1s3G5Y%3D

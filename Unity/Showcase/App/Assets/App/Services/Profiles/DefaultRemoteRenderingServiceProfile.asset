@@ -51,10 +51,10 @@ MonoBehaviour:
   - Label: West Europe
     Value: westeurope
     Domain: westeurope.mixedreality.azure.com
-  AccountId: 
-  AccountDomain: 
-  AccountKey: 
-  storageAccountName: 
-  storageModelContainer: 
-  storageModelPathByUsername: 0
-  StorageAccountKey: 
+  AccountId: 389909a2-d390-4ecd-bbde-a311ebbf0270
+  AccountDomain: eastus.mixedreality.azure.com
+  AccountKey: aGkObGyZMbnoyka0ZdnGegNcL+77V0Tvv7SRm1Mcw+U=
+  storageAccountName: renderingtest1
+  storageModelContainer: https://renderingtest1.blob.core.windows.net/arroutput/SHL.arrAsset?sp=r&st=2023-08-14T23:54:35Z&se=2023-08-18T07:54:35Z&spr=https&sv=2022-11-02&sr=b&sig=X4JLKPVpKB3ST7%2FkVKxr2Sdf5%2F7uqUJbH24k70b6eAU%3D
+  storageModelPathByUsername: 1
+  StorageAccountKey: f1jCcxgb0JHNBEcIgcjnG4esDjLg4nggMRS9VLrkT8raqE84sNFuvgPNggsBesL9jzNk0XYN2ba5

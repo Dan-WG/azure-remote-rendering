@@ -5,16 +5,21 @@
     xsi:noNamespaceSchemaLocation="../.schemas/models.schema.xsd">
     <Containers>
         <Container>
-            <Name>Built In Engine</Name>
+            <Name>GSN</Name>
             <Transform>
                 <Center>true</Center>
             </Transform>
             <ImageUrl>https://contosostorage.blob.core.windows.net/app-blob-container/built-in.png</ImageUrl>
             <Items>
                 <Model>
-                    <Name>Built In Engine</Name>
+                    <Name>Test Model</Name>
                     <Url>builtin://Engine</Url>
                 </Model>
+
+				<Model>
+					<Name>SHL</Name>
+					<Url>https://renderingtest1.blob.core.windows.net/arroutput/SHL.arrAsset?sp=r&st=2023-08-22T20:34:06Z&se=2023-08-22T23:14:06Z&spr=https&sv=2022-11-02&sr=b&sig=uJei3LTwBxabbmW%2Bn9T1Rv2%2B76pafDlbFl5tRw3kBBA%3D</Url>
+				</Model>
             </Items>
         </Container>
         <Container>
