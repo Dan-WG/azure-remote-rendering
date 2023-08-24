@@ -1,7 +1,4 @@
-﻿// Copyright (c) Microsoft Corporation. All rights reserved.
-// Licensed under the MIT License. See LICENSE in the project root for license information.
-
-using Microsoft.Identity.Client;
+﻿using Microsoft.Identity.Client;
 using System;
 using System.IO;
 using UnityEngine;
